@@ -1,5 +1,5 @@
 # 🏠/💻 Around Full Stack developer first contact challenge  
-*Congrats, if you are reading this,we consider you a god candidate to be part of `Around`
+*Congrats, if you are reading this,we consider you a good candidate to be part of `Around`
 we hope that you will enjoy this challenge and that it will give us a better idea of your skills.*
 
 This challenge is about your experience with TS and simple algorithms. and its not itended
