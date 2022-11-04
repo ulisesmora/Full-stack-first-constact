@@ -6,7 +6,7 @@ This challenge is about your experience with TS and simple algorithms. and its n
 to be fully completed, we are more interested in how you approach the problem and how you
 solve it.
 
-Take a look to the index file, you will find more information about the challenge there.
+Take a look to the `index.ts` file, you will find more information about the challenge there.
 
 ### These are the rules:
 * Your answers should be as simple as possible
